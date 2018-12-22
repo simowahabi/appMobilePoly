@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textSize">16dp</dimen>
+    <dimen name="paddingall">14px</dimen>
+    <dimen name="raduisbut">12dp</dimen>
+</resources>

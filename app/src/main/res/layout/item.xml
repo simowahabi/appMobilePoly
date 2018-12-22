@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/listmdate"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Date:" />
+
+            <TextView
+                android:layout_weight="1"
+
+                android:id="@+id/listposx"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="PosX :" />
+
+            <TextView
+                android:layout_weight="1"
+
+                android:id="@+id/listposy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="PosY :" />
+            <TextView
+                android:layout_weight="1"
+
+                android:id="@+id/Ds"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="values of D :" />
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

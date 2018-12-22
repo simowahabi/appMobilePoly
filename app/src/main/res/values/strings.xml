@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">polyApp</string>
+    <string name="ApiUrl">url</string>
+</resources>
